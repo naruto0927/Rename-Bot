@@ -19,18 +19,17 @@ class script(object):
     ABOUT_TXT = """<b>🤖 My Name :</b> {}
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://telegram.me/RahulReviewsYT'>Rahul Reviews</a>
-<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/CodeXBro'>Rahul</a>
+<b>🚀 Server :</b> <a href=''>render</a>
+<b>🧑‍💻 Developer :</b> <a href='@NARUTO_UZUMAKI07th'>Naruto</a>
 
-<b>♻️ Bot Made By :</b> @RahulReviewsYT"""
+<b>♻️ Bot Made By :</b> @NARUTO_UZUMAKI07th"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>RahulReviews@UPI</code> 
+<b>🛍 UPI ID:</b> <code>Narutoprit@Fam</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -47,6 +46,6 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
     METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
 For Example :-
-<code>By @RahulReviewsYT</code>
-💬 For Any Help Contact @CodeXSupport
+<code>By @NARUTO_UZUMAKI07th</code>
+💬 For Any Help Contact @NARUTO_UZUMAKI07th
 """
